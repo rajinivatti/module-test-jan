@@ -1,0 +1,36 @@
+
+@media (min-width: 768px) {
+    
+    .chipa{
+        display: none;
+    }
+
+}
+
+.dip1{
+width: 3px;
+}
+.dip{
+width:70px;
+}
+.dip2{
+width:150px;
+}
+h3{
+padding-top:50px;
+padding-bottom:20px;
+}
+@media only screen and (min-width: 992px) {
+    .carousel-inner,
+    .carousel-item {
+      height: 600px;
+    }
+    /* .carousel-caption{
+        margin-bottom: 320px;
+    } */
+    .carousel-item img{
+        height: 100%;
+    }
+
+    
+  }    
